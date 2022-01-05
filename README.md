@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @3c4j
+- 👀 I’m interested in China
+- 🌱 I’m currently learning golang
